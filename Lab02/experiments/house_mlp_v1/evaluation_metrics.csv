@@ -1,0 +1,10 @@
+Metric,Value
+Validation Log-RMSE,0.114259
+Validation Log-MAE,0.076622
+Validation R2 Score,0.919712
+Validation USD-RMSE,19194.85
+Validation USD-MAE,13049.89
+Weight_MLP,0.12
+Weight_XGBoost,0.15
+Weight_CatBoost,0.5243
+Weight_Lasso,0.2057
