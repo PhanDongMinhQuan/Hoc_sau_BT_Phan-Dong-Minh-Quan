@@ -135,7 +135,7 @@ print("Building Report Cover Page...")
 p_ubnd = doc.add_paragraph()
 p_ubnd.alignment = WD_ALIGN_PARAGRAPH.CENTER
 p_ubnd.paragraph_format.space_after = Pt(2)
-r = p_ubnd.add_run("ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH\nTRƯỜNG ĐẠI HỌC SÀI GÒN\nKHOA CÔNG NGHỆ THÔNG TIN")
+r = p_ubnd.add_run("ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH\nTRƯỜNG ĐẠI HỌC SÀI GÒN\nKHOA TOÁN ỨNG DỤNG")
 r.font.name = 'Times New Roman'
 r.font.size = Pt(12.5)
 r.font.bold = True
@@ -183,7 +183,7 @@ def add_info_line(p, label, val):
     r2.font.size = Pt(12.5)
 
 add_info_line(p_info, "Học phần: ", "Học sâu (Deep Learning)")
-add_info_line(p_info, "Mã học phần: ", "858048  -  Nhóm lớp: 01")
+add_info_line(p_info, "Mã học phần: ", "858048")
 add_info_line(p_info, "Lớp: ", "DDU1231")
 add_info_line(p_info, "Giảng viên hướng dẫn: ", "TS. Đỗ Như Tài")
 add_info_line(p_info, "Sinh viên thực hiện: ", "")
@@ -269,7 +269,7 @@ add_p("Cuộc thi 'House Prices - Advanced Regression Techniques' trên nền t�
 add_p("Trong khuôn khổ Bài tập nhóm Lab02 của học phần Học sâu (Deep Learning), nhóm chúng em xây dựng một quy trình máy học hoàn chỉnh từ đầu đến cuối (End-to-End ML Pipeline) tuân thủ quy chuẩn quốc tế CRISP-DM. Trọng tâm của đồ án là thiết kế, tối ưu mạng nơ-ron nhân tạo nhiều tầng Multi-Layer Perceptron (MLP) được lập trình hoàn toàn bằng thư viện PyTorch, đồng thời mở rộng nghiên cứu phối hợp với các giải thuật Gradient Boosting và Linear Regularization để đạt được độ chính xác và khả năng tổng quát hóa tối ưu.")
 
 add_heading_1("LỜI CẢM ƠN")
-add_p("Nhóm chúng em xin bày tỏ lòng biết ơn sâu sắc và chân thành nhất đến Thầy TS. Đỗ Như Tài - Giảng viên phụ trách học phần Học sâu (Deep Learning) - Khoa Công nghệ Thông tin, Trường Đại học Sài Gòn.")
+add_p("Nhóm chúng em xin bày tỏ lòng biết ơn sâu sắc và chân thành nhất đến Thầy TS. Đỗ Như Tài - Giảng viên phụ trách học phần Học sâu (Deep Learning) - Khoa Toán Ứng dụng, Trường Đại học Sài Gòn.")
 add_p("Trong suốt quá trình học tập trên lớp, Thầy đã tận tâm truyền thụ những kiến thức nền tảng vững chắc và chuyên sâu về mạng nơ-ron nhân tạo, cơ chế lan truyền ngược (backpropagation), các giải thuật tối ưu hóa đạo hàm riêng, cũng như phương pháp luận khoa học trong việc phân tích và đánh giá mô hình học máy. Những bài giảng sinh động, định hướng tư duy thực nghiệm và sự chỉ dẫn nhiệt tình của Thầy là nguồn động lực và kim chỉ nam quý báu giúp nhóm hoàn thành đồ án này.")
 add_p("Mặc dù nhóm đã nỗ lực vận dụng kiến thức và thực nghiệm khoa học nghiêm túc, báo cáo chắc chắn khó tránh khỏi những hạn chế nhất định. Chúng em rất mong nhận được những nhận xét, đóng góp quý giá từ Thầy để nhóm tiếp tục trau dồi và nâng cao năng lực chuyên môn trong các học phần tiếp theo.")
 add_p("Kính chúc Thầy dồi dào sức khỏe, niềm vui và luôn gặt hái nhiều thành công rực rỡ trong sự nghiệp nghiên cứu và giảng dạy!", italic=True)
