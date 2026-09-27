@@ -1,0 +1,45 @@
+{
+    "project": {
+        "title": "Lab02: Qui trình máy học cho dự đoán giá nhà",
+        "course": "Học sâu (Deep Learning) - 858048",
+        "class": "DDU1231 - Nhóm 01",
+        "instructor": "TS. Đỗ Như Tài",
+        "authors": [
+            {
+                "name": "Phan Đồng Minh Quân",
+                "student_id": "3123580038",
+                "role": "Nhóm trưởng"
+            },
+            {
+                "name": "Võ Minh Tiến",
+                "student_id": "3123580053",
+                "role": "Thành viên"
+            }
+        ]
+    },
+    "data": {
+        "train_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\train.csv",
+        "test_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\test.csv",
+        "validation_size": 0.25,
+        "random_state": 42
+    },
+    "experiment": {
+        "expr_dir": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\experiments",
+        "expr_name": "house_mlp_v1",
+        "best_model_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\experiments\\house_mlp_v1\\best_model.pt",
+        "best_tuned_model_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\experiments\\house_mlp_v1\\best_tuned_model.pt",
+        "params_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\experiments\\house_mlp_v1\\params.json",
+        "tuning_results_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\experiments\\house_mlp_v1\\tuning_results.csv",
+        "evaluation_metrics_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\experiments\\house_mlp_v1\\evaluation_metrics.csv",
+        "submission_file": "C:\\Users\\Quan Phan\\.gemini\\antigravity-ide\\scratch\\user_repo\\Lab02\\submission.csv"
+    },
+    "train": {
+        "hidden1": 48,
+        "hidden2": 24,
+        "dropout": 0.2,
+        "learning_rate": 0.003,
+        "weight_decay": 0.001,
+        "batch_size": 32,
+        "epochs": 120
+    }
+}
