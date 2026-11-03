@@ -1,0 +1,30 @@
+{
+  "entropy": [
+    3123580038,
+    3123580053
+  ],
+  "generator": "PCG64",
+  "splits": {
+    "train": {
+      "n": 2000,
+      "spawn_key": [
+        0
+      ],
+      "sha256": "2b5ba691034cf8f9578160ff7d73e517b29777b2d5d2b352b17b15fec9ae4b2b"
+    },
+    "validation": {
+      "n": 500,
+      "spawn_key": [
+        1
+      ],
+      "sha256": "fdb3cfbe998f188c45f9f565edeeeaa13bd052a6b52d0082cb3dbdb4205e348f"
+    },
+    "test": {
+      "n": 100,
+      "spawn_key": [
+        2
+      ],
+      "sha256": "8f141b12e8deadd53147a6949451371eda24bd49640db4e97908649c6d248ffb"
+    }
+  }
+}
