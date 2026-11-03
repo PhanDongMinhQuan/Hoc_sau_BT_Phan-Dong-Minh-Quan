@@ -1,0 +1,22 @@
+{
+  "epochs": 400,
+  "batch_size": 64,
+  "learning_rate": 0.002,
+  "n_train": 2000,
+  "hidden": [
+    1
+  ],
+  "seed": 91,
+  "best_epoch": 381,
+  "parameters": 5,
+  "training_seconds": 7.55790399999978,
+  "optimizer_steps": 12800,
+  "train_mse": 0.0032705871810884534,
+  "train_mae": 0.041215662267004384,
+  "train_rmse": 0.05718904773720623,
+  "train_r2": -0.000800022278098611,
+  "validation_mse": 0.003593321761933049,
+  "validation_mae": 0.04307723519173126,
+  "validation_rmse": 0.05994432218261417,
+  "validation_r2": 0.0002752753056840529
+}

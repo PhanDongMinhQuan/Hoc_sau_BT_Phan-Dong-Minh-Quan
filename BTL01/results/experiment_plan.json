@@ -1,0 +1,1235 @@
+[
+  {
+    "group": "A",
+    "value": 200,
+    "run_id": "1f8258d6504d",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 200,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 200,
+    "run_id": "ec2897ecb47c",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 200,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 200,
+    "run_id": "2eee603c0f90",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 200,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 400,
+    "run_id": "2a7a07752c7c",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 400,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 400,
+    "run_id": "59d1a45c3fdb",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 400,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 400,
+    "run_id": "860ecd7a8a1a",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 400,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 600,
+    "run_id": "00c26e876d2e",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 600,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 600,
+    "run_id": "efc36b3b93d1",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 600,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 600,
+    "run_id": "4e16b38db286",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 600,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 800,
+    "run_id": "35542cf44f56",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 800,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 800,
+    "run_id": "67bb899b11a7",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 800,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 800,
+    "run_id": "405800cb3f89",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 800,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 1000,
+    "run_id": "1b2447f27be7",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1000,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 1000,
+    "run_id": "2f88b9c8c1a6",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1000,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 1000,
+    "run_id": "3e2869ed4779",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1000,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 1200,
+    "run_id": "9daa5711379f",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1200,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 1200,
+    "run_id": "8415a735db78",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1200,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 1200,
+    "run_id": "22305b73796b",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1200,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 1400,
+    "run_id": "8b843ceb2d6e",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1400,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 1400,
+    "run_id": "3b03d9d2a7b2",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1400,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 1400,
+    "run_id": "086a9a399c40",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1400,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 1600,
+    "run_id": "30bfd854f67a",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1600,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 1600,
+    "run_id": "56c3ccb5ff73",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1600,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 1600,
+    "run_id": "270265d2d4eb",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1600,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 1800,
+    "run_id": "b6bf84ec3bbb",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1800,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 1800,
+    "run_id": "8c0d7853b21d",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1800,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 1800,
+    "run_id": "938a933734d3",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 1800,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "A",
+    "value": 2000,
+    "run_id": "b79e5b3faaa0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "A",
+    "value": 2000,
+    "run_id": "1854f1fc0866",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "A",
+    "value": 2000,
+    "run_id": "daf5b57e5361",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 1,
+    "run_id": "ed0324c3c6b8",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        1
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 1,
+    "run_id": "ab89d89303ea",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        1
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 1,
+    "run_id": "7bc6233ebe60",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        1
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 2,
+    "run_id": "72089cac75cb",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        2
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 2,
+    "run_id": "9a5e21c0a185",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        2
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 2,
+    "run_id": "11cafdcd09d0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        2
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 3,
+    "run_id": "c53fa77d48f0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        3
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 3,
+    "run_id": "d0c5d2f5cdc0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        3
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 3,
+    "run_id": "364c2aa3ea27",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        3
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 4,
+    "run_id": "1a8d4118e4bf",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        4
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 4,
+    "run_id": "7a9efb0934e6",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        4
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 4,
+    "run_id": "500341605cd4",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        4
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 5,
+    "run_id": "702ad8a64a87",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        5
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 5,
+    "run_id": "a01b4b16358d",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        5
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 5,
+    "run_id": "95435d0d3e03",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        5
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 6,
+    "run_id": "d0f73616b51b",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        6
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 6,
+    "run_id": "87617fcbfa54",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        6
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 6,
+    "run_id": "763f6d40c9f2",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        6
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 7,
+    "run_id": "8ea4927b68ea",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        7
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 7,
+    "run_id": "79d6d0c19a49",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        7
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 7,
+    "run_id": "d064498ba2a2",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        7
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 8,
+    "run_id": "ff62a17c947d",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        8
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 8,
+    "run_id": "e6d868611ad6",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        8
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 8,
+    "run_id": "58801ae29ccc",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        8
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 9,
+    "run_id": "a9f7528d7f73",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        9
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 9,
+    "run_id": "eec1477e78f0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        9
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 9,
+    "run_id": "db89771469a7",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        9
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 10,
+    "run_id": "0f506f7e8397",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        10
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 10,
+    "run_id": "a67107e0b90d",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        10
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 10,
+    "run_id": "a8afcf3f7766",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        10
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 16,
+    "run_id": "b79e5b3faaa0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 16,
+    "run_id": "1854f1fc0866",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 16,
+    "run_id": "daf5b57e5361",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 32,
+    "run_id": "3cfce3a452b1",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        32
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 32,
+    "run_id": "47a579b76f7c",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        32
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 32,
+    "run_id": "84dc24946253",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        32
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "B",
+    "value": 64,
+    "run_id": "2c01d770c1cb",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        64
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "B",
+    "value": 64,
+    "run_id": "33fc1941867c",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        64
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "B",
+    "value": 64,
+    "run_id": "d981aa34fa5a",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        64
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "C",
+    "value": 1,
+    "run_id": "b79e5b3faaa0",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "C",
+    "value": 1,
+    "run_id": "1854f1fc0866",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "C",
+    "value": 1,
+    "run_id": "daf5b57e5361",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "C",
+    "value": 2,
+    "run_id": "befe8dd9cc22",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "C",
+    "value": 2,
+    "run_id": "520ad9ca9a0e",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "C",
+    "value": 2,
+    "run_id": "560c422e7cc5",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "C",
+    "value": 3,
+    "run_id": "5dc3842c6288",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16,
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "C",
+    "value": 3,
+    "run_id": "2d9f8cf3543f",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16,
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "C",
+    "value": 3,
+    "run_id": "e05d18b5d5af",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16,
+        16
+      ],
+      "seed": 91
+    }
+  },
+  {
+    "group": "C",
+    "value": 4,
+    "run_id": "b568215af434",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "seed": 38
+    }
+  },
+  {
+    "group": "C",
+    "value": 4,
+    "run_id": "8020a6dfa93c",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "seed": 53
+    }
+  },
+  {
+    "group": "C",
+    "value": 4,
+    "run_id": "7fac33922945",
+    "config": {
+      "epochs": 400,
+      "batch_size": 64,
+      "learning_rate": 0.002,
+      "n_train": 2000,
+      "hidden": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "seed": 91
+    }
+  }
+]

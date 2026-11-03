@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "scope": "selected configuration, seed 91, 400 epochs; same machine and library versions",
+  "weights_bitwise_equal": true,
+  "history_bytewise_equal": true,
+  "best_epoch": 371,
+  "repeat_training_seconds": 9.86549979999927
+}

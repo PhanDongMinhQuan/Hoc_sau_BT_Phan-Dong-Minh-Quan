@@ -1,0 +1,17 @@
+{
+  "criterion": "minimum mean validation MSE across three seeds; tie-break by fewer parameters then fewer training samples",
+  "representative_rule": "minimum validation MSE within selected configuration; seed breaks ties",
+  "n_train": 2000,
+  "hidden": [
+    16,
+    16,
+    16
+  ],
+  "mean_validation_mse": 5.40341264927747e-07,
+  "representative_run_id": "e05d18b5d5af",
+  "representative_seed": 91,
+  "experiment_plan_sha256": "b0487587ae9333c019a212997101df893756d718fddd634822aefd1b1d86a9c2",
+  "frozen_utc": "2026-11-03T13:39:21.908282+00:00",
+  "test_used_for_selection": false,
+  "data_manifest_sha256": "76555683b967b1ba192fc618cc29c51855bfffa43ed4eef4b3ca80de1cad9ba4"
+}
