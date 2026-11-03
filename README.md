@@ -1,5 +1,5 @@
 # Học Phần: Học Sâu (Deep Learning) - 858048
-**Khoa Công nghệ Thông tin - Trường Đại học Sài Gòn (SGU)**  
+**Khoa Toán Ứng Dụng - Trường Đại học Sài Gòn (SGU)**  
 **Giảng viên hướng dẫn**: TS. Đỗ Như Tài  
 **Lớp**: DDU1231 - **Nhóm lớp**: 01  
 
@@ -18,3 +18,7 @@
    - Mô hình kết hợp đa dạng **Weighted Ensemble** (MLP + XGBoost + CatBoost + Lasso) đạt **Validation RMSE = 0.11426** và **R² = 91.97%**.
    - Báo cáo toàn diện 6 giai đoạn chuẩn quốc tế **CRISP-DM** ([Report.pdf](./Lab02/Report.pdf) và [Report.docx](./Lab02/Report.docx)).
    - Tệp nộp bài Kaggle: [submission.csv](./Lab02/submission.csv) (1,459 căn nhà).
+3. **[BTL01](./BTL01/)**: Bài tập lớn 01 — Xấp xỉ hàm Gaussian hai chiều bằng mạng MLP trong PyTorch (Nhóm 1).
+   - Thành viên: Phan Đồng Minh Quân (3123580038, nhóm trưởng) và Võ Minh Tiến (3123580053).
+   - [Hướng dẫn chạy và kết quả](./BTL01/README.md), [báo cáo PDF](./BTL01/report/BTL01_Nhom1_BaoCao.pdf), [slide PDF](./BTL01/slides/BTL01_Nhom1_ThuyetTrinh.pdf).
+   - [Tải ZIP nộp Classroom](./BTL01_Nhom1_PhanDongMinhQuan_3123580038.zip) — gồm mã nguồn, dữ liệu, kết quả thực nghiệm, báo cáo và slide.
