@@ -101,7 +101,6 @@ BTL01/
   figures/                 Hình được tạo từ dữ liệu và kết quả thực tế
   report/                  Báo cáo DOCX và PDF
   slides/                  Thuyết trình PPTX và PDF
-  docs/                    Hướng dẫn đọc code, bảo vệ và kiểm tra bài nộp
   assets/                  Logo trường và ghi nguồn
 ```
 
@@ -117,8 +116,6 @@ BTL01/
 RMSE trung bình được tính bằng trung bình RMSE từng seed. Nó không bắt buộc bằng căn bậc hai của MSE trung bình. Kết quả một checkpoint đại diện cũng khác với trung bình ba seed. Chỉ so sánh các đại lượng cùng định nghĩa.
 
 Lệnh `python verify.py` kiểm tra 75 checkpoint, 30.000 dòng lịch sử epoch, 81 mục cấu hình-seed, 27 dòng tổng hợp và lựa chọn bằng validation. Chỉ số train/validation được tính với nhãn float32 đã chuyển thành tensor trong huấn luyện; nhãn test giữ float64 từ hàm giải tích. Phần kiểm chứng dùng đúng quy ước này, đặc biệt khi đối chiếu R² rất gần 0.
-
-Để chuẩn bị thuyết trình, đọc [hướng dẫn bảo vệ](docs/HUONG_DAN_BAO_VE.md). [Bảng kiểm bài nộp](docs/KIEM_TRA_BAI_NOP.md) liên kết từng yêu cầu với tệp minh chứng.
 
 ## Phân tích bổ sung và bản báo cáo hoàn thiện
 
