@@ -1,0 +1,4 @@
+# Preserve submitted bytes so BTL01/MANIFEST.sha256 stays valid on all platforms.
+BTL01/** -text
+*.zip -text
+*.zip.sha256 -text
