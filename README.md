@@ -24,3 +24,5 @@
    - [Tải ZIP nộp Classroom](./BTL01_Nhom1_PhanDongMinhQuan_3123580038.zip) — gồm mã nguồn, dữ liệu, kết quả thực nghiệm, báo cáo và slide.
 4. **[BT04](./BT04/)**: MLP và mạng học sâu — lan truyền xuôi, vector hóa, lan truyền ngược và cập nhật trọng số.
    - [Bài làm Word](./BT04/BT04_MLP_PhanDongMinhQuan_3123580038.docx), [đề bài](./BT04/DL04_Mang%20MLP.pdf) và [hướng dẫn kiểm tra phép tính](./BT04/README.md).
+5. **[M01](./M01/)**: Bài giữa kỳ Batch Gradient Descent cho neuron tuyến tính và neuron sigmoid.
+   - [Bài làm PDF](./M01/M01%20-%20BatchGD_Regression_PhanDongMinhQuan_3123580038.pdf) và [Google Docs](https://docs.google.com/document/d/1P5tnzNkHDJ-wFKO5m-78rE2ytfHmG9ofh4m2MsUyuKk/edit?usp=sharing).
