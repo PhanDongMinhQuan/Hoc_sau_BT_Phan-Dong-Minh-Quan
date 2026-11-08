@@ -13,4 +13,4 @@ Bài giữa kỳ môn Học sâu (858048), lớp DDU1231, Khoa Toán Ứng Dụn
 
 Nội dung gồm một bước Batch Gradient Descent cho neuron tuyến tính và neuron sigmoid; tính forward pass, MSE, gradient, cập nhật tham số và nhận xét sự khác biệt giữa hai mô hình.
 
-PDF gồm 9 trang, xuất trực tiếp từ Google Docs. Trang đầu có thông tin sinh viên, học phần, lớp môn học và liên kết tài liệu.
+PDF gồm 8 trang nội dung, xuất từ Google Docs và bỏ trang trắng cuối. Trang đầu có thông tin sinh viên, học phần, lớp môn học và liên kết tài liệu.
